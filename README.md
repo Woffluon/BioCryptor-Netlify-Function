@@ -14,7 +14,6 @@ A modern, responsive chat interface powered by Langflow, built with React, TypeS
 - **Responsive Design** - Works on desktop and mobile devices
 - **Type Safety** - Full TypeScript support
 - **Netlify Functions** - Serverless backend for Langflow API integration
-- **Water Background** - Visually appealing animated water background
 - **Multi-language Support** - Built with internationalization (i18n) in mind
 
 ## 🛠️ Tech Stack
